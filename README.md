@@ -9,14 +9,15 @@
 
 # 📌 About Us
 Hydra #9163 is a [First Robotics Competition](https://www.firstinspires.org/programs/frc/) team from Salvador, Bahia. <br>
-This is a team profile, made to maintain all the main robot repositories of each season. Not only that, but it displays the main team programming projects aswell. <br> 
+This is a team profile, made to maintain all the main robot repositories of each season and the season / off-season projects. <br> 
 By the year of 2026, we are the only FRC team on the state. <br>
+<br>
 
-Since our opening, we claimed award, such as:
-- Rookie All-Star (2023 Off-Season)
-- Judge Award (2025 Reefscape)
-- Safety All Star (2025 Reefscape, 2026 Rebuilt)
-- Sustaiability Award (2026 Rebuilt)
+### Since our opening, we claimed awards, such as: <br>
+ㅤ🏆 Rookie All-Star (2023 Off-Season) <br>
+ㅤ🏆 Judge Award (2025 Reefscape) <br>
+ㅤ🏆 Safety All Star (2025 Reefscape, 2026 Rebuilt) <br>
+ㅤ🏆 Sustaiability Award (2026 Rebuilt)
 
 <br>
 
