@@ -7,7 +7,7 @@
 
 
 
-## 📌 About Us
+# 📌 About Us
 Hydra #9163 is a [First Robotics Competition](https://www.firstinspires.org/programs/frc/) team from Salvador, Bahia. <br>
 This is a team profile, made to maintain all the main robot repositories of each season. Not only that, but it displays the main team programming projects aswell. <br> 
 By the year of 2026, we are the only FRC team on the state. <br>
@@ -20,7 +20,7 @@ Since our opening, we claimed award, such as:
 
 <br>
 
-## 📊 GitHub Stats & Trophies
+# 📊 GitHub Stats & Trophies
 
   <a href="https://github.com/Hydra-9163">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hydra-9163&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="Hydra-9163's GitHub Stats" />
@@ -32,7 +32,7 @@ Since our opening, we claimed award, such as:
 
 <br><br>
 
-## 🛠️ Languages & Tools 
+# 🛠️ Languages & Tools 
 
 <br><br>
 
