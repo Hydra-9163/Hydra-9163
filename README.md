@@ -10,25 +10,31 @@
 # 🦑 About Us
 Hydra #9163 is a [First Robotics Competition](https://www.firstinspires.org/programs/frc/) team from Salvador, Bahia. <br>
 This is a team profile, made to maintain all the main robot repositories of each season and the season / off-season projects. <br> 
-By the year of 2026, we are the only FRC team on the state. <br>
-<br>
+By the year of 2026, we are the only FRC team on the state.
 
-### Since our opening, we claimed awards, such as: <br>
-ㅤ🏆 Rookie All-Star (2023 Off-Season) <br>
-ㅤ🏆 Judge Award (2025 Reefscape) <br>
-ㅤ🏆 Safety All Star (2025 Reefscape, 2026 Rebuilt) <br>
-ㅤ🏆 Sustaiability Award (2026 Rebuilt)
 
 <br>
 
-# 📊 GitHub Stats 
+# 📊 GitHub Stats & Trophies 
 
 ![](https://github-readme-stats.shion.dev/api?username=hydra-9163&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hydra-9163&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<br>
+
+### 🏆 Rookie All-Star (2023 Off-Season) <br>
+### 🏆 Judge Award (2025 Reefscape) <br>
+### 🏆 Safety All Star (2025 Reefscape, 2026 Rebuilt) <br>
+### 🏆 Sustainability Award (2026 Rebuilt)
+
 <br><br>
 
-# 🛠️ Languages & Tools 
+<div align="center">
+
+<!-- # 🛠️ Languages & Tools
+
+</div>
+
 
 <br><br>
 
@@ -48,8 +54,8 @@ By the year of 2026, we are the only FRC team on the state. <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
 
-</p>
+</p> -->
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
